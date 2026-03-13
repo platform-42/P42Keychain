@@ -8,8 +8,8 @@
 import Foundation
 
 
-public final class Keychain {
-    
+public final class Keychain: @unchecked Sendable {
+
     public static let instance = Keychain()
     
     public func getKeyChain(
