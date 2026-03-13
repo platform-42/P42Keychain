@@ -14,6 +14,6 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "P42-keychain")
+            name: "P42Keychain")
     ]
 )
