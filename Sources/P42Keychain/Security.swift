@@ -5,13 +5,6 @@
 //  Created by Diederick de Buck on 18/12/2025.
 //
 
-//
-//  Security.swift
-//  GA42
-//
-//  Created by Diederick de Buck on 16/12/2025.
-//
-
 import Foundation
 
 
